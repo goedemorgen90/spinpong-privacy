@@ -1,0 +1,2 @@
+# spinpong-privacy
+Privacy Policy
